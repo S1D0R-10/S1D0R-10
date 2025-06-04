@@ -10,7 +10,7 @@
 
 * 🌍  I'm based in Poland
 * 🖥️  See my portfolio at [https://dev.szymonsidor.pl/](http://dev.szymonsidor.pl/)
-* ✉️  You can contact me at [kontakt@szymonsidor.pl](mailto:kontakt@szymonsidor.pl)
+* ✉️  You can contact me at [kontakt@szymonsidor.pl](mailto:szsidor@gmail.com)
 * 🧠  I'm learning C++ & React
 
 <a href="https://www.github.com/S1D0R-10" target="_blank" rel="noreferrer"><img

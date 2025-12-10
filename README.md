@@ -5,7 +5,7 @@
 
 <div style="text-align: center;">
 <h1>Hi 👋 My name is Szymon Sidor</h1>
-<h2>A second-year student who is learning to program.</h2>
+<h2>A third-year student who is learning to program.</h2>
 </div>
 
 * 🌍  I'm based in Poland

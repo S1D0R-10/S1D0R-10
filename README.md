@@ -3,9 +3,10 @@
   ![snake gif](https://github.com/S1D0R-10/S1D0R-10/blob/output/github-snake-dark.svg)
 </div>
 
-<div style="text-align: center;">
-<h1>Hi 👋 My name is Szymon Sidor</h1>
-<h2>A third-year student who is learning to program.</h2>
+<div align="center"; style="text-align: center; ">
+  
+  <h1>Hi 👋 My name is Szymon Sidor</h1>
+  <h2>A third-year student who is learning to program.</h2>
 </div>
 
 * 🌍  I'm based in Poland

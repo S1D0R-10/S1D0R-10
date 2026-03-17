@@ -1,6 +1,6 @@
 <div align="center">
-  <iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
-<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
+  
+  ![snake gif](https://github.com/S1D0R-10/S1D0R-10/blob/output/github-snake-dark.svg)
 </div>
 
 <div style="text-align: center;">

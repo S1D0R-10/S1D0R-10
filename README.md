@@ -74,3 +74,12 @@
 
 * 🧑‍💻 Junior Software Developer in "BoosterAI"
 * 🗿 Working on [Olimpedia.com](http://olimpedia.com/) for fun
+
+---
+
+<div align="center">
+
+*“Everything Around You Was Built by People Not Smarter Than You.”*
+— Steve Jobs
+
+</div>

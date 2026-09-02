@@ -72,8 +72,8 @@
 
 ## `Current working on:`
 
-* 🧑‍💻 Junior Software Developer in "BoosterAI"
-* 🗿 Working on [Olimpedia.com](http://olimpedia.com/) for fun
+* 🧑‍💻 Studying
+* 🗿 Working on [Olimpedia.com](http://olimpedia.com/)
 
 ---
 
